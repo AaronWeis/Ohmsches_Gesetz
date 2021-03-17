@@ -16,6 +16,8 @@ namespace Ohmsches_Gesetz
             
             Console.WriteLine("Reihenschaltung: " + (r1 + r2) + " Ohm");
             Console.WriteLine("Parallelschaltung: " + ((r1 * r2) / (r1 + r2)) + " Ohm");
+            
+            Console.WriteLine("Lul");
         }
     }
 }
